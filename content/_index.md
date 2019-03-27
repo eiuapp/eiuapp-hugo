@@ -1,17 +1,15 @@
-[我](/about) 是个程序员。万一你有遇到IT相关的技术问题，让我同你一起讨论，我真的是比较闲！虽然不一定能立刻解决，但是，我肯定会帮你想办法！
-[^_^]:
+## 小楼一夜听春雨 （古龙作品《圆月弯刀》诗句） 
 
-    [Tom](/about) is a software engineer. If you not see him in front of computer, he must be traveling outside. Keep touch with him in [Wechat](https://res.cloudinary.com/dmtixvmgt/image/upload/v1539023822/wechat-qrcode-2_hos1ui.jpg). 
+- 主人公丁鹏所用的圆月弯刀上刻的诗句
 
-[^_^]:
+```
+具有神鬼莫测的魔力
+乃天下第一魔刀
+江湖一现
+即出血腥
+拥有者在江湖上可以成为刀中魔圣
+```
 
-    [Tom(曾云龙)](/about) is a software engineer working at [bitspace](http://www.bitspace.link/). If you not see him in front of computer, he must be traveling  outside. Keep touch with him in [Wechat](https://res.cloudinary.com/dmtixvmgt/image/upload/v1517285465/tomtsang-wechat-qrcode_cwdxdj.jpg). 
+来历：
+古龙作品《圆月弯刀》主人公丁鹏所用的圆月弯刀上刻的诗句，原作者南宋诗人陆游，然丁鹏的弯刀是青青的爷爷——魔教教主所授，这句诗是教主刻上去的。
 
-
-
-    [Tom Tsang(曾云龙)](/about) is a software engineer working at [bitspace](http://www.bitspace.link/), also a Gopher, open source enthusiast and Big Data, Cloud Native, [Kubernetes](https://kubernetes.io), [Hugo](https://gohugo.io) Developer Advocate in China. If you not see him in front of computer, he must be traveling or taking pictures outside, visit his amazing pictures at [tuchong](https://jimmysong.tuchong.com/). Feel free to [follow him on twitter](https://twitter.com/jimmysongio) or keep touch with him in 微信(Wechat), his wechat account is jimmysong. He has kept writing the free and open sourced [kubernetes-handbook](https://jimmysong.io/kubernetes-handbook) and [hugo-handbook](https://jimmysong.io/hugo-handbook) for Chinese users.
-    
-
-[^_^]:
-
-    [finsoft.info](/about) is the place for you! We can do some software development, do some shopping in Hong Kong for you. Keep touch with him in [Wechat(微信)](https://res.cloudinary.com/dmtixvmgt/image/upload/v1517285465/tomtsang-wechat-qrcode_cwdxdj.jpg).
