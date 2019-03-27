@@ -92,6 +92,9 @@
 <script src="{{ "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/prism.js" | absURL }}"></script>
 <script src="{{ "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/katex.min.js" | absURL }}"></script>
 <script> renderMathInElement(document.body); </script>
+{{ if .Site.Params.reward }}
+<script src="{{ "js/reward.js" | absURL }}"></script>
+{{ end }}
 {{ if .Site.Params.gcse }}
 <script>
   (function() {

@@ -18,12 +18,14 @@ hello = "对酒当歌，人生几何！"
 # subtitle = "I can help you building Cloud Native confidence"
 # subtitle = "to be a good CEO"
 # 这个是 logo, favicon.ico
-# logo = "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/avatar-icon.png"
-# logo = "https://res.cloudinary.com/dmtixvmgt/image/upload/v1517280703/spongebob_logo_cmw84k.jpg"
-logo = "https://res.cloudinary.com/dmtixvmgt/image/upload/v1538907991/WechatIMG-touxiang_o3lpq6.jpg"
+# logo = "https://res.cloudinary.com/dmtixvmgt/image/upload/v1538907991/WechatIMG-touxiang_o3lpq6.jpg"
+logo = "https://res.cloudinary.com/dmtixvmgt/image/upload/v1553677311/weixin-touxiang_tirqxs.jpg"
+
 # 网页标签中的图片
 # favicon = "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/favicon.ico"
-favicon = "https://res.cloudinary.com/dmtixvmgt/image/upload/v1517278722/favicon_p9ur0o.ico"
+favicon = "https://res.cloudinary.com/dmtixvmgt/image/upload/v1517278722/favicon_p9ur0o.ico" 
+
+
 dateFormat = "January 2, 2006"
 commit = false
 # ad section, comment this to disable it

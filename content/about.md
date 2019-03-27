@@ -15,7 +15,10 @@ Nothing in the world can take the place of Persistence. Talent will not; nothing
 
 想联系，加微信!
 
-![WeChat qrcode](https://res.cloudinary.com/dmtixvmgt/image/upload/v1539023822/wechat-qrcode-2_hos1ui.jpg)
+<!-- ![WeChat qrcode](https://res.cloudinary.com/dmtixvmgt/image/upload/v1539023822/wechat-qrcode-2_hos1ui.jpg) -->
+![WeChat qrcode](https://res.cloudinary.com/dmtixvmgt/image/upload/c_limit,h_240,q_100,w_240/v1553677609/wechat-1_wgpmgz.jpg)
+
+
 
 [^_^]:
 
