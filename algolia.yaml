@@ -1,0 +1,11 @@
+---
+baseurl: "https://eiuapp.github.io/"
+DefaultContentLanguage: "zh"
+hasCJKLanguage: true
+languageCode: "zh"
+title: "小楼"
+theme: "beautifulhugo"
+metaDataFormat: "yaml"
+subtitle: "I can help you building Cloud Native confidence"
+dateFormat: "January 2, 2006"
+---

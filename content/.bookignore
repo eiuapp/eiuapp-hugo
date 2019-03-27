@@ -1,0 +1,14 @@
+# GitBook ignore file.
+# We ignore everything that isn't docs
+.gitignore
+.travis.yml
+.bookignore
+.gitlab-ci.yml
+_unused/*
+.DS_Store
+deploy.sh
+_book/gitbook/images/*
+docs/carmstrong/*.log
+docs/.gitignore
+post/.gitignore
+sh/*

@@ -1,0 +1,203 @@
+baseurl = "https://eiu.app/"
+DefaultContentLanguage = "en"
+hasCJKLanguage = true
+languageCode = "zh-cn"
+title = "小楼一夜听春雨" # 首页, 左上角
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsUseClasses = false
+pygmentCodeFences = true
+#googleAnalytics = "XXX"
+enableEmoji = true
+
+# 这个部分是 首页banner
+[Params]
+hello = "对酒当歌，人生几何！"
+# subtitle = "I can help you building financial freedom confidence"
+# subtitle = "I am convinced that such an immensely bright and beautiful tomorrow will arrive!"
+# subtitle = "I can help you building Cloud Native confidence"
+# subtitle = "to be a good CEO"
+# 这个是 logo, favicon.ico
+# logo = "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/avatar-icon.png"
+# logo = "https://res.cloudinary.com/dmtixvmgt/image/upload/v1517280703/spongebob_logo_cmw84k.jpg"
+logo = "https://res.cloudinary.com/dmtixvmgt/image/upload/v1538907991/WechatIMG-touxiang_o3lpq6.jpg"
+# 网页标签中的图片
+# favicon = "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/favicon.ico"
+favicon = "https://res.cloudinary.com/dmtixvmgt/image/upload/v1517278722/favicon_p9ur0o.ico"
+dateFormat = "January 2, 2006"
+commit = false
+# ad section, comment this to disable it
+ad = true
+rss = true
+comments = true
+sharebutton = true
+reward = true
+notoc = true
+algolia = "6e99ce500680dd69eabd41bd1ddf44b2" # API key
+#gcse = "012737790962522169780:fd1izxsfgrs" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+description = "小楼一夜听春雨"
+errorpage = "https://res.cloudinary.com/dmtixvmgt/image/upload/v1538908352/404-not-found-cat_obbecv.png"
+
+
+# busuanzi
+busuanzi = true
+busuanzi_site_offset = 100000
+
+[blackfriday]
+hrefTargetBlank = true
+extensions = []
+
+[algolia]
+index = "tomtsang-hugo-blog"
+key = "6e99ce500680dd69eabd41bd1ddf44b2"
+appID = "UOVQ0F6Y70"
+# index = algolia index
+# key = Search-Only API Key
+# appID = Application ID
+
+# Valine.
+# You can get your appid and appkey from https://leancloud.cn
+# more info please open https://valine.js.org
+[Params.valine]
+enable = true
+appId = 'uHTTb6K7XsbrpttyNTkjwQPh-gzGzoHsz'
+appKey = 'TXy56RYNLQSQjWWQycxYIyIA'
+notify = true  # mail notifier , https://github.com/xCss/Valine/wiki
+verify = false # Verification code
+avatar = 'mm'
+placeholder = '说点什么吧...'
+visitor = true
+
+[[Params.bigimg]]
+src = "https://res.cloudinary.com/dmtixvmgt/image/upload/v1517368079/Spongebob-Wallpaper-spongebob-squarepants-16205104-1024-768_twkbgn.jpg"
+desc = "Spongebob-Wallpaper-spongebob-squarepants"
+
+[[Params.bigimg]]
+src = "https://res.cloudinary.com/dmtixvmgt/image/upload/v1538791181/tencent-cloud-plus-20180630_cuesrl.jpg"
+desc = "tencent-cloud-geekbang-01"
+
+# 页尾, 联系方式
+[Author]
+  name = "小楼"
+  website = "https://eiuapp.github.io"
+ # email = "tomtsang1987@gmail.com"
+  email = "273412935@qq.com"
+ # email = "766529074@.com"
+ # facebook = "tomtsang"
+ # googleplus = "+jimmysong" # or xxxxxxxxxxxxxxxxxxxxx
+  github = "eiuapp"
+  twitter = "tomtsang1987"
+ # linkedin = "jimmysongio"
+
+# 菜单栏
+[[menu.main]]
+    identifier = "categories"
+    name = "文章分类"
+    weight = 1
+
+[[menu.main]]
+    parent = "categories"
+    name = "所有分类"
+    url = "categories/"
+    weight = 1
+
+[[menu.main]]
+    parent = "categories"
+    name = "kubernetes"
+    url = "categories/kubernetes"
+    weight = 2
+    
+[[menu.main]]
+    parent = "categories"
+    name = "docker"
+    url = "categories/docker"
+    weight = 3
+
+[[menu.main]]
+    parent = "categories"
+    name = "python"
+    url = "categories/python"
+    weight = 4
+    
+[[menu.main]]
+    parent = "categories"
+    name = "Github"
+    url = "categories/github"
+    weight = 5
+
+[[menu.main]]
+    parent = "categories"
+    name = "mysql"
+    url = "categories/mysql"
+    weight = 6
+
+[[menu.main]]
+    parent = "categories"
+    name = "标签"
+    url = "/tags"
+    weight = 99
+
+[[menu.main]]
+    identifier = "Gitbook"
+    name = "电子书"
+    weight = 2
+
+[[menu.main]]
+    parent = "Gitbook"
+    name = "Ceph Handbook"
+    url = "https://eiuapp.github.io/ceph-handbook"
+    weight = 2
+
+[[menu.main]]
+    parent = "Gitbook"
+    name = "Swift Handbook"
+    url = "https://eiuapp.github.io/swift-handbook"
+    weight = 3
+
+# [[menu.main]]
+#    identifier = "Post"
+#    name = "归档"
+#    url = "/post"
+#    weight = 3
+
+#[[menu.main]]
+#    identifier = "Tags"
+#    name = "标签"
+#    url = "/tags"
+#    weight = 4
+
+[[menu.main]]
+   identifier = "Projects"
+   name = "作品"
+   url = "/post/works"
+   weight = 6
+
+[[menu.main]]
+    name = "关于"
+    url = "/about"
+    weight = 9
+
+
+#[[menu.main]]
+#    parent = "Projects"
+#    name = "Awesome Cloud Native"
+#    url = "https://jimmysong.io/awesome-cloud-native"
+#    weight = 2
+
+#[[menu.main]]
+#    parent = "Projects"
+#    name = "Cloudinary go"
+#    url = "posts/cloudinary-go"
+#    weight = 3
+
+#[[menu.main]]
+#   parent = "Projects"
+#   name = "Cheatsheets"
+#   url = "https://qqbb.app/cheatsheets/"
+#   weight = 1
+
+#[[menu.main]]
+#   parent = "Projects"
+#   name = "Docs"
+#   url = "https://doctom.readthedocs.io/en/latest/"
+#   weight = 2
