@@ -25,7 +25,6 @@ logo = "https://res.cloudinary.com/dmtixvmgt/image/upload/v1553677311/weixin-tou
 # favicon = "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/favicon.ico"
 favicon = "https://res.cloudinary.com/dmtixvmgt/image/upload/v1517278722/favicon_p9ur0o.ico" 
 
-
 dateFormat = "January 2, 2006"
 commit = false
 # ad section, comment this to disable it
@@ -39,7 +38,11 @@ algolia = "6e99ce500680dd69eabd41bd1ddf44b2" # API key
 #gcse = "012737790962522169780:fd1izxsfgrs" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 description = "小楼一夜听春雨"
 errorpage = "https://res.cloudinary.com/dmtixvmgt/image/upload/v1538908352/404-not-found-cat_obbecv.png"
-
+# baiduKey = ""
+baidu_push = false        # baidu push                  # 百度
+baidu_analytics = "9dd8f468d36a07a7a8bde80b13fe8eaf"      # Baidu Analytics
+baidu_verification = ""   # Baidu Verification
+google_verification = ""  # Google_Verification         # 谷歌
 
 # busuanzi
 busuanzi = true
@@ -67,7 +70,7 @@ appKey = 'TXy56RYNLQSQjWWQycxYIyIA'
 notify = true  # mail notifier , https://github.com/xCss/Valine/wiki
 verify = false # Verification code
 avatar = 'mm'
-placeholder = '说点什么吧...'
+placeholder = '说点什么...'
 visitor = true
 
 [[Params.bigimg]]
