@@ -19,6 +19,8 @@ bigimg:
 
 [gometalinter](https://github.com/alecthomas/gometalinter),golang代码质量检查分析工具
 
+https://github.com/itcloudy/go-view
+
 
 ## Ref
 

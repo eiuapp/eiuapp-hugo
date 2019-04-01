@@ -33,6 +33,8 @@ bigimg:
 - [Manico](http://www.geekpark.net/news/219123), 一款快速启动及切换 Mac App 的工具
 - [KeyCastr](https://github.com/keycastr/keycastr): [录屏好帮手](https://zhuanlan.zhihu.com/p/29982257)，实时显示按键操作的小工具
 
+- [dash](https://kapeli.com/dash)
+
 ## Ref
 
 - https://zhuanlan.zhihu.com/p/29982257
