@@ -24,3 +24,7 @@ bigimg:
 - [KeKe-Li/kubernetes-tutorial](https://github.com/KeKe-Li/kubernetes-tutorial/)
 
 - [StudyXX/google-containers](https://github.com/StudyXX/google-containers)
+
+https://github.com/gjmzj/kubeasz
+
+rootsongjc 的 [kubernetes-vagrant-centos-cluster](https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster)
