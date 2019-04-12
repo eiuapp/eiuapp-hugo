@@ -32,7 +32,7 @@ mv .emacs .emacs.bak
 ### 官网下载 spacemacs 包
 
 ```shell
-git clone https://github.com/syl20bnr/spacemacs -b devlop ~/.emacs.d
+git clone https://github.com/syl20bnr/spacemacs -b develop ~/.emacs.d
 ```
 
 ### Launch Emacs
@@ -43,11 +43,23 @@ Spacemacs will automatically install the packages it requires. If you get an err
 emacs --insecure
 ```
 
+第一次运行，请选择默认选择项目（1. vim; 2. 推荐）
+
 ### 设置private配置
 
+备份或删除原有配置文件：
+
+mv 
 ```shell
 git clone https://github.com/$yourAccount/spacemacs-private ~/.spacemacs.d
 ```
+
+如果愿意，可以使用我的配置
+
+```shell
+git clone https://github.com/eiuapp/spacemacs-private-win10-tl ~/.spacemacs.d
+```
+
 
 ### 检查
 
@@ -60,7 +72,7 @@ git clone https://github.com/$yourAccount/spacemacs-private ~/.spacemacs.d
 
 ### 快捷方式
 
-打开`C:\Program Files\emacs-26.1-x86_64\bin`, 找到，`runemacs.exe` （不是`emacs.exe`）设置 快捷方式 到桌面
+打开emacs安装地址（比如：`C:\Program Files\emacs-26.1-x86_64\bin`）, 找到，`runemacs.exe` （不是`emacs.exe`）设置 快捷方式 到桌面
 
 ## ref
 - https://www.douban.com/note/511848652/
