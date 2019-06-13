@@ -521,6 +521,8 @@
     * [yapi-practices](post/yapi-practices.md)
     * [记一次yapi的迁移过程](post/yapi-docker-transfer-data-install.md)
     * [api-format](post/yapi-format.md)
+* [ruby]
+    * [install rvm with ubuntu](post/install-rvm-with-ubuntu.md)
 
 -----
 
