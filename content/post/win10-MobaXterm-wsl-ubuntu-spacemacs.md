@@ -1,4 +1,4 @@
-
+借助 MobaXterm 使得 wsl-ubuntu 在 win10 下可使用 spacemaces
 
 ## env
 
