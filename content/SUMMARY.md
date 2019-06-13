@@ -524,6 +524,7 @@
     * [api-format](post/yapi-format.md)
 * [ruby]
     * [install rvm with ubuntu](post/install-rvm-with-ubuntu.md)
+* [在有java源码的情况下，找到mysql用户密码](post/find-mysql-password-with-java-source-code.md)
 
 -----
 
