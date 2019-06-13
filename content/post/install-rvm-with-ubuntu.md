@@ -1,3 +1,4 @@
+install rvm with ubuntu
 
 去 https://github.com/rvm/rvm#installing-rvm 
 
