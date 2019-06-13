@@ -105,6 +105,7 @@
     * [build dockerfile常见问题](post/docker-build-dockerfile-faq.md)
     * [windows安装docker](post/docker-install-with-windows.md)
     * [docker使用常见问题](post/docker-use-faq.md)
+    * [docker save and docker load](post/docker-save-load.md)
 * [hugo](post/hugo.md)
     * [关于 hugo, easy-hugo, ox-hugo, spacemacs 集成相关的问题](post/easy-hugo-and-ox-hugo-qa.md)
 * [emacs](post/emacs.md)
