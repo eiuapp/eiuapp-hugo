@@ -41,11 +41,39 @@ cd  /usr/local/bin && ls -l | grep "../lib/node_modules/" | awk '{print $9}'| xa
 
 ## 二、安装 nvm {#二-安装-nvm}
 
+https://github.com/creationix/nvm
+
 ```shell
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.29.0/install.sh | bash
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash
 ```
 
 安装完成后请重新打开终端环境，Mac 下推荐使用 oh-my-zsh 代替默认的 bash shell。
+
+### 报错 The program 'rbenv' is currently not installed
+
+
+如果 nvm 安装过程中, 报出如下错误
+
+```
+The program 'rbenv' is currently not installed. You can install it by typing:
+sudo apt install rbenv
+```
+那么说明没有安装成功的。要依据提示做一下。
+
+```
+u@DESKTOP-APB1HCJ:~$ sudo apt install rbenv 
+```
+
+### 检查
+
+```
+u@DESKTOP-APB1HCJ:~$ which nvm
+DESKTOP-APB1HCJ% nvm --version
+0.34.0
+DESKTOP-APB1HCJ% nvm version
+v11.14.0
+DESKTOP-APB1HCJ%
+```
 
 
 ## 三、安装切换各版本 node/npm {#三-安装切换各版本-node-npm}
@@ -64,6 +92,17 @@ npm install -g react-native-cli #安装 react-native-cli 模块至全局目录�
 nvm alias default 0.12.7 #设置默认 node 版本为 0.12.7
 ```
 
+查看已经安装版本
+
+```
+nvm ls
+```
+
+帮助
+
+```
+nvm --help
+```
 
 ## 四、使用 .nvmrc 文件配置项目所使用的 node 版本 {#四-使用-dot-nvmrc-文件配置项目所使用的-node-版本}
 
