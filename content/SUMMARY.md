@@ -320,6 +320,7 @@
     * [nodejs系列之pm2开机自启动](post/nodejs-pm2-startup.md)
 * [Network](post/network.md)
     * [Network Proxy Iphone](post/network-proxy-iphone.md)
+    * [ubuntu docker change ufw rules](post/ubuntu-docker-change-ufw-rules.md)
     * [linux下使用privoxy将socks转为http代理](post/privoxy-socks-to-https.md)
     * [Network Proxy Shadowsocks Server](post/network-proxy-shadowsocks-server.md)
     * [Network Proxy Win10](post/network-proxy-win10.md)
