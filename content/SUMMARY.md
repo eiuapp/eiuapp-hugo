@@ -526,6 +526,7 @@
 * [ruby]
     * [install rvm with ubuntu](post/install-rvm-with-ubuntu.md)
 * [在有java源码的情况下，找到mysql用户密码](post/find-mysql-password-with-java-source-code.md)
+* [Ubuntu18.04配置Java环境和安装Tomcat的方法（详细）](post/ubuntu-install-java-jdk-tomcat.md)
 
 -----
 
