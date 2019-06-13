@@ -285,7 +285,7 @@
     * [Nginx Faq 2](post/nginx-faq-2.md)
     * [Nginx Seo](post/nginx-seo.md)
     * [Nginx Servername](post/nginx-servername.md)
-   
+    * [记一次nginx漏洞补救](post/nginx-bug-fix.md)
 * [Mysql](post/mysql.md)
     * [Mysql Config](post/mysql-config.md)
     * [Mysql Config Server.conf](post/mysql-config-server.conf.md)
@@ -306,6 +306,7 @@
     * [mac中navicat连接mysql后报61错误码](post/mac-navicat-mysql-61-error-code.md)
     * [mysql 常用用法](post/mysql-usage.md)
     * [Completly remove Mysql from Ubuntu](post/remove-mysql-mariadb-from-ubuntu.md)
+    * [通过java代码去查找mysql密码](post/find-mysql-password-with-java-source-code.md)
 * [nodejs](post/nodejs.md)
     * [Nodejs Faq Unexpected Token Function](post/nodejs-faq-unexpected-token-function.md)
     * [nodejs 一定要通过 nvm安装](post/nodejs-install.md)
@@ -508,6 +509,11 @@
 * [cmder笔记](post/note-about-cmder.md)
 * [gvm笔记](post/note-about-gvm.md)
 * [programmer-competency-matrix](post/programmer-competency-matrix.md)
+* [yapi]
+    * [安装yapi通过docker](post/install-yapi-with-docker.md)
+    * [yapi-practices](post/yapi-practices.md)
+    * [记一次yapi的迁移过程](post/yapi-docker-transfer-data-install.md)
+    * [api-format](post/yapi-format.md)
 
 -----
 
