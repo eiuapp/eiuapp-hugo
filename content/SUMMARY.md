@@ -287,6 +287,7 @@
     * [Nginx Seo](post/nginx-seo.md)
     * [Nginx Servername](post/nginx-servername.md)
     * [记一次nginx漏洞补救](post/nginx-bug-fix.md)
+    * [ubuntu 安装 nginx](post/ubuntu-install-nginx.md)
 * [Mysql](post/mysql.md)
     * [Mysql Config](post/mysql-config.md)
     * [Mysql Config Server.conf](post/mysql-config-server.conf.md)
