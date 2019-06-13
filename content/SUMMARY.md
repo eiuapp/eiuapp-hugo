@@ -323,6 +323,7 @@
     * [ubuntu docker change ufw rules](post/ubuntu-docker-change-ufw-rules.md)
     * [linux下使用privoxy将socks转为http代理](post/privoxy-socks-to-https.md)
     * [Network Proxy Shadowsocks Server](post/network-proxy-shadowsocks-server.md)
+    * [ubuntu搭建SS客户端](post/ubuntu-shadowsock-server.md)
     * [Network Proxy Win10](post/network-proxy-win10.md)
     * [Ngrok Multi User Tunnel](post/ngrok-multi-user-tunnel
     * [让部分软件不使用expressvpn代理](post/expressvpn-open-app-not-use-proxy.md)
