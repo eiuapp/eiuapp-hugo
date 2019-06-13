@@ -421,6 +421,8 @@
     * [Redis Install](post/redis-install.md)
 * [spacemacs](post/spacemacs.md)
     * [spacemacs安装]()
+        * [借助 MobaXterm 使得 wsl-ubuntu 在 win10 下可使用 spacemaces](post/win10-MobaXterm-wsl-ubuntu-spacemacs.md)
+        * [(未完成)借助 vcxsrv 使得 wsl-ubuntu 在 win10 下可使用 spacemaces](post/win10-vcxsrv-wsl-ubuntu-xfce4-spacemacs.md)
         * [在win10上安装spacemacs](post/spacemacs-install-with-win10.md)
         * [在win10上安装spacemacs常见问题](post/spacemacs-install-faq-with-win10.md)
         * [安装 Package 失败](post/spacemacs-faq-is-the-package-name-misspelled.md)
@@ -451,6 +453,7 @@
     * [Today Learn](post/today-learn.md)
     * [blockchain学习](post/learn/blockchain.md)
     * [golang学习](post/learn/golang.md)
+
 * [jwl](post/jwl.md)
 * [job](post/job.md)
     * [Telephone Interview](post/telephone-interview.md)
