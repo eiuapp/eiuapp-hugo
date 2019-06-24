@@ -130,6 +130,13 @@ GlassWire, Process Lasso, Dism++, Geek Uninstaller, SpaceSniffer
 
 [Power Keys](https://github.com/szzhiyang/PerfectWindows/wiki/Power-Keys): 系统全局快捷键
 
+---
+
+20190620
+
+[Snipaste](https://www.snipaste.com/) : 图片
+
+[PicGo](https://github.com/Molunerfinn/PicGo) : 图床
 
 ## ref
 
