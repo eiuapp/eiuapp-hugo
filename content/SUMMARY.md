@@ -40,6 +40,7 @@
     * [使用org-mode和ox-hugo写文档](post/blogging-with-org-mode-and-ox-hugo.md)
     * [一位大神的线上deploy shell](post/blog/hugo.md)
     * [shane sveller blog 笔记](post/shane-sveller-blog-about-ox-hugo.md)
+    * [使用hugo的hugo-material-docs主题模板来构建书籍](post/hugo-build-hugobook-with-theme-hugo-material-docs.md)
 * [centos](post/centos.md)
     * [CentOS6上ftp服务器搭建实战](post/centos6-install-ftp.md)
     * [centos install mysql (no network)](post/centos-install-mysql-no-network.md)
