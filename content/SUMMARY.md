@@ -136,6 +136,7 @@
     * [Git常用命令与GitHub使用技巧技巧整理](post/git-github-tips.md)
     * [Github Star Management](post/github-star-management.md)
     * [Github Travis](post/github-travis.md)
+    * [travis分支白名单导致无法构建](post/travis-build-using-a-safelist.md)
     * [Gitlab Authority](post/gitlab-authority.md)
     * [github做Markdown图床](post/github-image.md)
 * [Gitlab](post/gitlab.md)
